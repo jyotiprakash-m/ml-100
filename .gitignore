@@ -16,13 +16,14 @@ ENV/
 .vscode/
 
 # Data files
-*.csv
-*.tsv
-*.data
-*.dat
+# *.csv
+# *.tsv
+# *.data
+# *.dat
+*.zip
 
 # Model files
-*.pkl
+# *.pkl
 *.joblib
 *.h5
 *.hdf5
