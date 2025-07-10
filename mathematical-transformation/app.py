@@ -6,7 +6,7 @@ import pickle
 app = FastAPI()
 
 # Load the model using pickle
-with open("titanic_pipeline.pkl", "rb") as f:
+with open("power_transformation_model.pkl", "rb") as f:
     model = pickle.load(f)
 
 # Define the input schema

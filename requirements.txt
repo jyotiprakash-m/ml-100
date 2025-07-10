@@ -12,3 +12,5 @@ tabulate
 
 beautifulsoup4
 requests
+
+pandas-profiling
