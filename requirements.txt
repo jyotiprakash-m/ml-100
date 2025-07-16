@@ -13,4 +13,9 @@ tabulate
 beautifulsoup4
 requests
 
-pandas-profiling
+# pandas-profiling
+
+streamlit
+openai
+xgboost
+shap
